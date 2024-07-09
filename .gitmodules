@@ -1,0 +1,3 @@
+[submodule "hyperspectral_listener"]
+	path = hyperspectral_listener
+	url = git@github.com:james-trayford/ifu-listener.git
