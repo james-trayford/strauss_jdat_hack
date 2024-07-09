@@ -59,3 +59,14 @@ Which should make the application available at browser address:
 When running for the first time go to _"Select New"_ and open the data cube at `/path/to/your/directory/hyperspectral_listener/listener-app/DataCubes/NGC4151_Hband.fits`
 
 
+### .Astronomy 13 hack
+
+There are some rough materials from the _.Astronomy 13_ hack day that could be usful here... its in `./dotAstro13_hack/`.
+
+Here we use canvases to render sonifications of paths from MaNGA property maps. This can be done in a call-response style (as opposed to real-time, you can draw a path, thne render, then listen)
+
+You will also neeed to download the big data cube for this, e.g.
+
+`cd ./dotAstro13_hack/manga`
+`curl -O 'https://data.sdss.org/sas/dr17/manga/spectro/redux/v3_1_1/7443/stack/manga-7443-12703-LOGCUBE.fits.gz'`
+`cd ../..`
