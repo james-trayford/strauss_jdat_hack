@@ -1,0 +1,12 @@
+strauss @ git+https://github.com/james-trayford/strauss@jdaviz_hackday
+Flask
+gunicorn
+flask-wtf
+Bottleneck
+spectral-cube
+specutils
+astropy
+matplotlib
+jdaviz @ git+https://github.com/james-trayford/jdaviz@strauss_jdaviz_hackday
+jupyterlab
+regions

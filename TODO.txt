@@ -1,0 +1,4 @@
+- make simple spec -> sound function
+- Make seamless loop function in STRAUSS
+- clean up MANGA function
+- look at sounddevice callback function and streams
