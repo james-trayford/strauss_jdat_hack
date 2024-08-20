@@ -1,4 +1,4 @@
-strauss @ git+https://github.com/james-trayford/strauss@jdaviz_hackday
+strauss @ git+https://github.com/james-trayford/strauss@equal_loudness_normalisation
 Flask
 gunicorn
 flask-wtf
@@ -7,6 +7,6 @@ spectral-cube
 specutils
 astropy
 matplotlib
-jdaviz @ git+https://github.com/james-trayford/jdaviz@strauss_jdaviz_hackday
+jdaviz @ git+https://github.com/james-trayford/jdaviz@strauss-hack-jt
 jupyterlab
 regions
