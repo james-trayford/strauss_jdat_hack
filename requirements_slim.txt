@@ -7,6 +7,6 @@ spectral-cube
 specutils
 astropy
 matplotlib
-jdaviz @ git+https://github.com/james-trayford/jdaviz@strauss-hack-jt
+jdaviz @ git+https://github.com/javerbukh/jdaviz@sonify-plugin-updates
 jupyterlab
 regions
