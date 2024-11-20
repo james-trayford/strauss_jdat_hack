@@ -4,10 +4,9 @@ You can clone this repository locally:
 
 `git clone git@github.com:james-trayford/strauss_jdat_hack.git /path/to/your/directory`
 
-and then initialise any submodules:
+and then change directory:
 
 `cd /path/to/your/directory`
-`git submodule update --init --recursive`
 
 ### Python and setting up an environment:
 
